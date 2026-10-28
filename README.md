@@ -219,4 +219,4 @@ PrestaShop is offered as a full free version with all features and updates inclu
 Start your e-commerce journey today! Download PrestaShop free for Windows and unlock your online store's potential.
 
 ---
-**Last updated:** 2026-10-27 23:37:14 UTC
+**Last updated:** 2026-10-28 04:42:56 UTC
